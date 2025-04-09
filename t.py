@@ -128,4 +128,4 @@ def handle_predict(message):
 
 # === 🏆 Start the Bot ===
 print("Bot is running...")
-bot.polling()ng()
+bot.polling()
